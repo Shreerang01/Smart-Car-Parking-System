@@ -75,7 +75,8 @@ For Actual Implementation
 
 ## Circuit Diagram
 
-![Schematic](Simulation on Tinkercad.png)
+![Screenshot (388)](https://github.com/Shreerang01/Smart-Car-Parking-System/assets/113919844/aeb56888-cb4a-40fd-b727-18d12c6b15e4)
+
 ## Usage
 
 - **Monitoring Parking Spaces:**
