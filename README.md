@@ -71,7 +71,8 @@ For Actual Implementation
     6. Note the Obeservations
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![Schematics](https://github.com/Shreerang01/Smart-Car-Parking-System/assets/113919844/0ed7bf5f-a6db-4d54-9284-48675d62f00a)
+
 ## Circuit Diagram
 
 ![Schematic](Simulation on Tinkercad.png)
