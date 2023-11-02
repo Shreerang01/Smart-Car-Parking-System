@@ -75,7 +75,8 @@ For Actual Implementation
 
 ## Circuit Diagram
 
-![Screenshot (388)](https://github.com/Shreerang01/Smart-Car-Parking-System/assets/113919844/aeb56888-cb4a-40fd-b727-18d12c6b15e4)
+![Screenshot (389)](https://github.com/Shreerang01/Smart-Car-Parking-System/assets/113919844/020b7887-24b9-4d87-ad83-63118a3ae198)
+
 
 ## Usage
 
